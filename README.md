@@ -13,7 +13,3 @@ The Docker image is public:
 ```
 ghcr.io/jaeyooniee/track1-hybrid-routing-agent:latest
 ```
-
-## Source code
-
-The full agent source, including the complete development journal, will be published in this repository at submission finalization, ahead of judging. It is withheld during the live competition window for competitive reasons.
